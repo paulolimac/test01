@@ -828,6 +828,48 @@
         "marker-color":"#000080",
         "marker-size":"medium"
       }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+
+      },
+      "properties":{
+        "cidade":"-",
+        "estado":"-",
+        "google street view":"-",
+        "marker-symbol":"library",
+        "marker-color":"#FFFFFF",
+        "marker-size":"medium"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+
+      },
+      "properties":{
+        "cidade":"-",
+        "estado":"-",
+        "google street view":"-",
+        "marker-symbol":"library",
+        "marker-color":"#FFFFFF",
+        "marker-size":"medium"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+
+      },
+      "properties":{
+        "cidade":"-",
+        "estado":"-",
+        "google street view":"-",
+        "marker-symbol":"library",
+        "marker-color":"#FFFFFF",
+        "marker-size":"medium"
+      }
     }
   ]
 }
