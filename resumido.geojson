@@ -1,710 +1,851 @@
 {
-   "type": "FeatureCollection",
-   "features": [
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.531979000,-23.649626000 ]
+  "type":"FeatureCollection",
+  "features":[
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Santo Andre",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.6506,-46.532172,3a,75y,9.3h,98.71t/data=!3m4!1e1!3m2!1spzkNuwiY2fx8n_DnqRbZIQ!2e0!6m1!1e1",
+        "marker-symbol":"shop",
+        "marker-color":"#FFA500",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.531979,
+          -23.649626
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Santo Andre",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.6506,-46.532172,3a,75y,9.3h,98.71t/data=!3m4!1e1!3m2!1spzkNuwiY2fx8n_DnqRbZIQ!2e0!6m1!1e1",
-    "marker-symbol":"shop",
-    "marker-color":"#FFA500",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.533180000,-23.648077000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Santo Andre",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.648747,-46.533354,3a,75y,24.31h,90.26t/data=!3m4!1e1!3m2!1sFsttsEGwB0Gf4KFbj1x-YA!2e0!6m1!1e1",
+        "marker-symbol":"shop",
+        "marker-color":"#FFA500",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.53318,
+          -23.648077
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Santo Andre",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.648747,-46.533354,3a,75y,24.31h,90.26t/data=!3m4!1e1!3m2!1sFsttsEGwB0Gf4KFbj1x-YA!2e0!6m1!1e1",
-    "marker-symbol":"shop",
-    "marker-color":"#FFA500",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -47.123537000,-22.923586000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Campinas",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-22.923688,-47.123462,3a,75y,348.6h,62.83t/data=!3m4!1e1!3m2!1sVvsQNBQllzsR5EnlWFTLsQ!2e0!6m1!1e1",
+        "marker-symbol":"college",
+        "marker-color":"#008000",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -47.123537,
+          -22.923586
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Campinas",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-22.923688,-47.123462,3a,75y,348.6h,62.83t/data=!3m4!1e1!3m2!1sVvsQNBQllzsR5EnlWFTLsQ!2e0!6m1!1e1",
-    "marker-symbol":"college",
-    "marker-color":"#008000",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -56.034811000,-15.640727000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Cuiaba",
+        "estado":"MT",
+        "google street view":"https://www.google.com.br/maps/@-15.640351,-56.034736,3a,75y,175.74h,90t/data=!3m4!1e1!3m2!1sXxkgQEluDe9EL1g2Rg6gTg!2e0!6m1!1e1",
+        "marker-symbol":"college",
+        "marker-color":"#008000",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -56.034811,
+          -15.640727
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Cuiaba",
-    "estado":"MT",
-    "google street view":"https://www.google.com.br/maps/@-15.640351,-56.034736,3a,75y,175.74h,90t/data=!3m4!1e1!3m2!1sXxkgQEluDe9EL1g2Rg6gTg!2e0!6m1!1e1",
-    "marker-symbol":"college",
-    "marker-color":"#008000",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.941887000,-19.920219000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Belo Horizonte",
+        "estado":"MG",
+        "google street view":"https://www.google.com.br/maps/@-19.9202341,-43.9417022,3a,75y,249.77h,101.83t/data=!3m6!1e1!3m4!1sXN-4jSc07ZhEz6iQbl3nhA!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.941887,
+          -19.920219
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Belo Horizonte",
-    "estado":"MG",
-    "google street view":"https://www.google.com.br/maps/@-19.9202341,-43.9417022,3a,75y,249.77h,101.83t/data=!3m6!1e1!3m4!1sXN-4jSc07ZhEz6iQbl3nhA!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.963796000,-19.812239000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Belo Horizonte",
+        "estado":"MG",
+        "google street view":"https://www.google.com.br/maps/@-19.8125808,-43.9637411,3a,75y,332.8h,86.32t/data=!3m6!1e1!3m4!1suLSqJ0SnsB6BfwOlmG_B-w!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.963796,
+          -19.812239
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Belo Horizonte",
-    "estado":"MG",
-    "google street view":"https://www.google.com.br/maps/@-19.8125808,-43.9637411,3a,75y,332.8h,86.32t/data=!3m6!1e1!3m4!1suLSqJ0SnsB6BfwOlmG_B-w!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.169007000,-22.909642000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Rio de Janeiro",
+        "estado":"RJ",
+        "google street view":"https://www.google.com.br/maps/@-22.9101405,-43.1691048,3a,75y,24.03h,88.92t/data=!3m6!1e1!3m4!1sCR8IibbEramU_4BO6R3hKA!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.169007,
+          -22.909642
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Rio de Janeiro",
-    "estado":"RJ",
-    "google street view":"https://www.google.com.br/maps/@-22.9101405,-43.1691048,3a,75y,24.03h,88.92t/data=!3m6!1e1!3m4!1sCR8IibbEramU_4BO6R3hKA!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.181000000,-22.908946000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Rio de Janeiro",
+        "estado":"RJ",
+        "google street view":"https://www.google.com.br/maps/@-22.9092951,-43.1806308,3a,75y,331.37h,113.77t/data=!3m6!1e1!3m4!1sNYC-ssoLCrQlavU4w6kA8A!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.181,
+          -22.908946
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Rio de Janeiro",
-    "estado":"RJ",
-    "google street view":"https://www.google.com.br/maps/@-22.9092951,-43.1806308,3a,75y,331.37h,113.77t/data=!3m6!1e1!3m4!1sNYC-ssoLCrQlavU4w6kA8A!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.215618000,-22.912488000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Rio de Janeiro",
+        "estado":"RJ",
+        "google street view":"https://www.google.com.br/maps/@-22.9124443,-43.2157552,3a,75y,102.11h,101.26t/data=!3m6!1e1!3m4!1sk7JpvYRmf4sGe7q8Xff3hg!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.215618,
+          -22.912488
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Rio de Janeiro",
-    "estado":"RJ",
-    "google street view":"https://www.google.com.br/maps/@-22.9124443,-43.2157552,3a,75y,102.11h,101.26t/data=!3m6!1e1!3m4!1sk7JpvYRmf4sGe7q8Xff3hg!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.199463000,-22.984668000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Rio de Janeiro",
+        "estado":"RJ",
+        "google street view":"https://www.google.com.br/maps/@-22.9845501,-43.199354,3a,75y,141.13h,85.7t/data=!3m6!1e1!3m4!1swKS8I8WopskCKH8fof-Fqg!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.199463,
+          -22.984668
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Rio de Janeiro",
-    "estado":"RJ",
-    "google street view":"https://www.google.com.br/maps/@-22.9845501,-43.199354,3a,75y,141.13h,85.7t/data=!3m6!1e1!3m4!1swKS8I8WopskCKH8fof-Fqg!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.172776000,-22.963372000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Rio de Janeiro",
+        "estado":"RJ",
+        "google street view":"https://www.google.com.br/maps/@-22.9636052,-43.1727827,3a,75y,349.99h,109.69t/data=!3m6!1e1!3m4!1sNKg5ac7L0MMfxzVIBJQElw!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.172776,
+          -22.963372
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Rio de Janeiro",
-    "estado":"RJ",
-    "google street view":"https://www.google.com.br/maps/@-22.9636052,-43.1727827,3a,75y,349.99h,109.69t/data=!3m6!1e1!3m4!1sNKg5ac7L0MMfxzVIBJQElw!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.278786000,-22.901895000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Rio de Janeiro",
+        "estado":"RJ",
+        "google street view":"https://www.google.com.br/maps/@-22.9020319,-43.2789765,3a,75y,55.45h,90.94t/data=!3m6!1e1!3m4!1sP4bUzy7d7HrUq1Rpl5gfsA!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.278786,
+          -22.901895
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Rio de Janeiro",
-    "estado":"RJ",
-    "google street view":"https://www.google.com.br/maps/@-22.9020319,-43.2789765,3a,75y,55.45h,90.94t/data=!3m6!1e1!3m4!1sP4bUzy7d7HrUq1Rpl5gfsA!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.453768000,-22.758767000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Nova Iguaçu",
+        "estado":"RJ",
+        "google street view":"https://www.google.com.br/maps/@-22.7588594,-43.4537548,3a,75y,73.03h,89.22t/data=!3m6!1e1!3m4!1sKn1HCfS9GI1GDFrlN8eXeQ!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.453768,
+          -22.758767
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Nova Iguaçu",
-    "estado":"RJ",
-    "google street view":"https://www.google.com.br/maps/@-22.7588594,-43.4537548,3a,75y,73.03h,89.22t/data=!3m6!1e1!3m4!1sKn1HCfS9GI1GDFrlN8eXeQ!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.465607000,-23.014508000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Rio de Janeiro",
+        "estado":"RJ",
+        "google street view":"https://www.google.com.br/maps/@-23.014373,-43.4654684,3a,75y,132.94h,80.19t/data=!3m6!1e1!3m4!1sYfWdCGzy8zO0kXItcrRI5Q!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.465607,
+          -23.014508
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Rio de Janeiro",
-    "estado":"RJ",
-    "google street view":"https://www.google.com.br/maps/@-23.014373,-43.4654684,3a,75y,132.94h,80.19t/data=!3m6!1e1!3m4!1sYfWdCGzy8zO0kXItcrRI5Q!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.043726000,-22.822604000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Gonçalo",
+        "estado":"RJ",
+        "google street view":"https://www.google.com.br/maps/@-22.8228169,-43.0437414,3a,75y,9.93h,84.12t/data=!3m6!1e1!3m4!1sAMrvjxp8fYanr1wXFKEtSw!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.043726,
+          -22.822604
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Gonçalo",
-    "estado":"RJ",
-    "google street view":"https://www.google.com.br/maps/@-22.8228169,-43.0437414,3a,75y,9.93h,84.12t/data=!3m6!1e1!3m4!1sAMrvjxp8fYanr1wXFKEtSw!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.601486000,-23.615302000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.6152606,-46.6013009,3a,75y,246.31h,87.05t/data=!3m6!1e1!3m4!1snZf4rh632Ft8fvheyfMAxQ!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.601486,
+          -23.615302
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.6152606,-46.6013009,3a,75y,246.31h,87.05t/data=!3m6!1e1!3m4!1snZf4rh632Ft8fvheyfMAxQ!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.647508000,-23.529964000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5299466,-46.6473406,3a,75y,200.48h,96.66t/data=!3m6!1e1!3m4!1sYv9322PZ2Yyur-U2bBGsaA!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.647508,
+          -23.529964
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5299466,-46.6473406,3a,75y,200.48h,96.66t/data=!3m6!1e1!3m4!1sYv9322PZ2Yyur-U2bBGsaA!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.777149000,-23.530615000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Osasco",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5308851,-46.7766989,3a,75y,282.23h,79.47t/data=!3m6!1e1!3m4!1sRC69fQmxOXBe1C7QdeM3mQ!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.777149,
+          -23.530615
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Osasco",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5308851,-46.7766989,3a,75y,282.23h,79.47t/data=!3m6!1e1!3m4!1sRC69fQmxOXBe1C7QdeM3mQ!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.833185000,-23.521476000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Carapicuiba",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5213343,-46.832517,3a,75y,269.43h,94.29t/data=!3m6!1e1!3m4!1sfHxfJXEn51UDg8gTqSujQw!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.833185,
+          -23.521476
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Carapicuiba",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5213343,-46.832517,3a,75y,269.43h,94.29t/data=!3m6!1e1!3m4!1sfHxfJXEn51UDg8gTqSujQw!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.651309000,-23.537436000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5373228,-46.651266,3a,75y,181.02h,103.53t/data=!3m6!1e1!3m4!1sev1Jm0h-neUMTveFfBRPnQ!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.651309,
+          -23.537436
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5373228,-46.651266,3a,75y,181.02h,103.53t/data=!3m6!1e1!3m4!1sev1Jm0h-neUMTveFfBRPnQ!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.763184000,-23.656679000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.6566889,-46.7633839,3a,75y,95.12h,84.68t/data=!3m6!1e1!3m4!1sTnQ9uC5G4rzxZIaIOXFy7Q!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.763184,
+          -23.656679
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.6566889,-46.7633839,3a,75y,95.12h,84.68t/data=!3m6!1e1!3m4!1sTnQ9uC5G4rzxZIaIOXFy7Q!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.418276000,-23.542462000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.542213,-46.4182515,3a,75y,154.24h,82.82t/data=!3m6!1e1!3m4!1sKx--_Ed4KD0SejbtvwEZRA!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.418276,
+          -23.542462
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.542213,-46.4182515,3a,75y,154.24h,82.82t/data=!3m6!1e1!3m4!1sKx--_Ed4KD0SejbtvwEZRA!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.713388000,-23.667403000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.6674071,-46.7129997,3a,75y,250.23h,87.85t/data=!3m6!1e1!3m4!1scKhlifyUGgiRiZhzbnNq2w!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.713388,
+          -23.667403
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.6674071,-46.7129997,3a,75y,250.23h,87.85t/data=!3m6!1e1!3m4!1scKhlifyUGgiRiZhzbnNq2w!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.646741000,-23.494123000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.4939189,-46.6467874,3a,75y,173.33h,85.11t/data=!3m6!1e1!3m4!1sRXuNGsTFO3Eebxx8mdWJ8g!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.646741,
+          -23.494123
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.4939189,-46.6467874,3a,75y,173.33h,85.11t/data=!3m6!1e1!3m4!1sRXuNGsTFO3Eebxx8mdWJ8g!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.352083000,-23.476695000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Itaquaquecetuba",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.4765985,-46.3522208,3a,75y,103.49h,95.65t/data=!3m6!1e1!3m4!1shtQrPtExxiPC586Yj8vsXw!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.352083,
+          -23.476695
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Itaquaquecetuba",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.4765985,-46.3522208,3a,75y,103.49h,95.65t/data=!3m6!1e1!3m4!1shtQrPtExxiPC586Yj8vsXw!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.617364000,-23.614388000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.6140846,-46.6172433,3a,75y,224.84h,96.42t/data=!3m6!1e1!3m4!1sWIDJPF64Q0xvhPUOKORlsQ!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.617364,
+          -23.614388
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.6140846,-46.6172433,3a,75y,224.84h,96.42t/data=!3m6!1e1!3m4!1sWIDJPF64Q0xvhPUOKORlsQ!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.648704000,-23.616702000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.6166217,-46.6490038,3a,75y,115.34h,88.31t/data=!3m6!1e1!3m4!1szdwekvBJ2j9Xu970qPPeyA!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.648704,
+          -23.616702
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.6166217,-46.6490038,3a,75y,115.34h,88.31t/data=!3m6!1e1!3m4!1szdwekvBJ2j9Xu970qPPeyA!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.721265000,-23.487591000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.4874272,-46.7211331,3a,75y,197.29h,80.72t/data=!3m6!1e1!3m4!1sqGG3l--i7vomOGKY18T2eA!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.721265,
+          -23.487591
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.4874272,-46.7211331,3a,75y,197.29h,80.72t/data=!3m6!1e1!3m4!1sqGG3l--i7vomOGKY18T2eA!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.798787000,-23.526072000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Osasco",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5263408,-46.7990678,3a,75y,51.74h,93.33t/data=!3m6!1e1!3m4!1srywr3RW8A_1RSbiD0-oKJQ!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.798787,
+          -23.526072
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Osasco",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5263408,-46.7990678,3a,75y,51.74h,93.33t/data=!3m6!1e1!3m4!1srywr3RW8A_1RSbiD0-oKJQ!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.635041000,-23.538914000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5391042,-46.6349202,3a,75y,331.15h,104.97t/data=!3m6!1e1!3m4!1s7GSiFGhsgAjpzsA5mso5Ag!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.635041,
+          -23.538914
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5391042,-46.6349202,3a,75y,331.15h,104.97t/data=!3m6!1e1!3m4!1s7GSiFGhsgAjpzsA5mso5Ag!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.690418000,-23.572122000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5718726,-46.6904068,3a,75y,200.73h,100.4t/data=!3m6!1e1!3m4!1saHLbI_X5ph2j8924vLAOPQ!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.690418,
+          -23.572122
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5718726,-46.6904068,3a,75y,200.73h,100.4t/data=!3m6!1e1!3m4!1saHLbI_X5ph2j8924vLAOPQ!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.669382000,-23.639186000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.6392876,-46.6694114,3a,75y,357.85h,85.42t/data=!3m6!1e1!3m4!1s0ZPupssL_tvjtCxhV7eHrA!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.669382,
+          -23.639186
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.6392876,-46.6694114,3a,75y,357.85h,85.42t/data=!3m6!1e1!3m4!1s0ZPupssL_tvjtCxhV7eHrA!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.307463000,-23.533331000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Suzano",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5328953,-46.3072864,3a,75y,252.32h,86.12t/data=!3m6!1e1!3m4!1sl9AE5CncLpYPZ2iZTlMLPg!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.307463,
+          -23.533331
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Suzano",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5328953,-46.3072864,3a,75y,252.32h,86.12t/data=!3m6!1e1!3m4!1sl9AE5CncLpYPZ2iZTlMLPg!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.258691000,-23.544447000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Mogi das Cruzes",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5442756,-46.2584069,3a,75y,340.92h,91.05t/data=!3m6!1e1!3m4!1swQgJeQOUK1-7X9PpZeCB7A!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.258691,
+          -23.544447
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Mogi das Cruzes",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5442756,-46.2584069,3a,75y,340.92h,91.05t/data=!3m6!1e1!3m4!1swQgJeQOUK1-7X9PpZeCB7A!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.565236000,-22.897434000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Campo Grande",
+        "estado":"RJ",
+        "google street view":"https://www.google.com.br/maps/@-22.8973813,-43.5649477,3a,75y,274.09h,91.14t/data=!3m6!1e1!3m4!1suXl5QaH01mrcmH6tbg2BQQ!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.565236,
+          -22.897434
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Campo Grande",
-    "estado":"RJ",
-    "google street view":"https://www.google.com.br/maps/@-22.8973813,-43.5649477,3a,75y,274.09h,91.14t/data=!3m6!1e1!3m4!1suXl5QaH01mrcmH6tbg2BQQ!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.643954000,-23.524593000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5246603,-46.6437906,3a,75y,297.78h,89.96t/data=!3m6!1e1!3m4!1sRgu2qfYyXMoGaItYLrwjmg!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.643954,
+          -23.524593
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5246603,-46.6437906,3a,75y,297.78h,89.96t/data=!3m6!1e1!3m4!1sRgu2qfYyXMoGaItYLrwjmg!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.174766000,-22.912223000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Rio de Janeiro",
+        "estado":"RJ",
+        "google street view":"https://www.google.com.br/maps/@-22.9118016,-43.1751316,3a,75y,107.56h,109.7t/data=!3m6!1e1!3m4!1snuxMvPpfV7HIivwzFRjKgA!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.174766,
+          -22.912223
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Rio de Janeiro",
-    "estado":"RJ",
-    "google street view":"https://www.google.com.br/maps/@-22.9118016,-43.1751316,3a,75y,107.56h,109.7t/data=!3m6!1e1!3m4!1snuxMvPpfV7HIivwzFRjKgA!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -48.268053000,-18.881226000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Uberlândia",
+        "estado":"MG",
+        "google street view":"https://www.google.com.br/maps/@-18.881503,-48.2681108,3a,75y,279.17h,84.86t/data=!3m6!1e1!3m4!1s5UfmfL_7rQmVXtdspuOBzg!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -48.268053,
+          -18.881226
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Uberlândia",
-    "estado":"MG",
-    "google street view":"https://www.google.com.br/maps/@-18.881503,-48.2681108,3a,75y,279.17h,84.86t/data=!3m6!1e1!3m4!1s5UfmfL_7rQmVXtdspuOBzg!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -47.563008000,-22.410723000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Rio Claro",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-22.4107943,-47.5628605,3a,75y,316.7h,84.32t/data=!3m6!1e1!3m4!1s2g5-_3oJ1IXeI4uT-gZaCg!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -47.563008,
+          -22.410723
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Rio Claro",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-22.4107943,-47.5628605,3a,75y,316.7h,84.32t/data=!3m6!1e1!3m4!1s2g5-_3oJ1IXeI4uT-gZaCg!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.772095000,-23.507475000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Osasco",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.50604,-46.7704785,3a,75y,250.6h,90.78t/data=!3m6!1e1!3m4!1sEFkohvLh9WELqFhIEv9Ssg!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.772095,
+          -23.507475
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Osasco",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.50604,-46.7704785,3a,75y,250.6h,90.78t/data=!3m6!1e1!3m4!1sEFkohvLh9WELqFhIEv9Ssg!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.626880000,-23.525405000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5253541,-46.626959,3a,75y,141.7h,96.03t/data=!3m6!1e1!3m4!1sdtxAwiRg9ce8BRXyrX6rSQ!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.62688,
+          -23.525405
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5253541,-46.626959,3a,75y,141.7h,96.03t/data=!3m6!1e1!3m4!1sdtxAwiRg9ce8BRXyrX6rSQ!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.793844000,-23.878560000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Embu-Guaçu",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.865424,-46.7888332,3a,75y,222.89h,83.35t/data=!3m6!1e1!3m4!1sTvsuHQmrDKU6BbyBpjquiA!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.793844,
+          -23.87856
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Embu-Guaçu",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.865424,-46.7888332,3a,75y,222.89h,83.35t/data=!3m6!1e1!3m4!1sTvsuHQmrDKU6BbyBpjquiA!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.757683000,-23.620329000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.6202552,-46.7577556,3a,75y,28.23h,86.79t/data=!3m6!1e1!3m4!1sK1HONi8eptFSxIRvQyJFUw!2e0!7i13312!8i6656!6m1!1e1",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.757683,
+          -23.620329
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.6202552,-46.7577556,3a,75y,28.23h,86.79t/data=!3m6!1e1!3m4!1sK1HONi8eptFSxIRvQyJFUw!2e0!7i13312!8i6656!6m1!1e1",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.698829000,-23.567432000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5677003,-46.698855,3a,75y,31.8h,84.64t/data=!3m6!1e1!3m4!1sXpdkqYkpwHNsZx2PvcbBbQ!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.698829,
+          -23.567432
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5677003,-46.698855,3a,75y,31.8h,84.64t/data=!3m6!1e1!3m4!1sXpdkqYkpwHNsZx2PvcbBbQ!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -46.632945000,-23.548856000 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "google street view":"https://www.google.com.br/maps/@-23.5488718,-46.6329264,3a,75y,298.96h,100.38t/data=!3m6!1e1!3m4!1sWulLZ7wZNtS_OIT_tT-BlA!2e0!7i13312!8i6656",
+        "marker-symbol":"bank",
+        "marker-color":"#FFFF00",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -46.632945,
+          -23.548856
+        ]
+      }
     },
-    "properties": {
-    "cidade":"São Paulo",
-    "estado":"SP",
-    "google street view":"https://www.google.com.br/maps/@-23.5488718,-46.6329264,3a,75y,298.96h,100.38t/data=!3m6!1e1!3m4!1sWulLZ7wZNtS_OIT_tT-BlA!2e0!7i13312!8i6656",
-    "marker-symbol":"bank",
-    "marker-color":"#FFFF00",
-    "marker-size":"medium"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -43.1749046,-22.9074017 ]
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"Rio de Janeiro",
+        "estado":"RJ",
+        "google street view":"https://www.google.com.br/maps/@-22.9074017,-43.1749046,3a,75y,285.58h,119.9t/data=!3m6!1e1!3m4!1szdmIQP-aCWE1VBvVJRnXXg!2e0!7i13312!8i6656!6m1!1e1?hl=pt-BR",
+        "marker-symbol":"commercial",
+        "marker-color":"#000080",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          -43.1749046,
+          -22.9074017
+        ]
+      }
     },
-    "properties": {
-    "cidade":"Rio de Janeiro",
-    "estado":"RJ",
-    "google street view":"https://www.google.com.br/maps/@-22.9074017,-43.1749046,3a,75y,285.58h,119.9t/data=!3m6!1e1!3m4!1szdmIQP-aCWE1VBvVJRnXXg!2e0!7i13312!8i6656!6m1!1e1?hl=pt-BR",
-    "marker-symbol":"commercial",
-    "marker-color":"#000080",
-    "marker-size":"medium"
+    {
+      "type":"Feature",
+      "properties":{
+        "cidade":"-",
+        "estado":"-",
+        "google street view":"-",
+        "marker-symbol":"library",
+        "marker-color":"#FFFFFF",
+        "marker-size":"medium"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          0,
+          0
+        ]
+      }
     }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 00.00,00.00 ]
-    },
-    "properties": {
-    "cidade":"-",
-    "estado":"-",
-    "google street view":"-",
-    "marker-symbol":"library",
-    "marker-color":"#FFFFFF",
-    "marker-size":"medium"
-    }
-  }
-]
+  ]
 }
