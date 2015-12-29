@@ -68,9 +68,9 @@
                 "Cidade":"Cuiaba",
                 "Estado":"MT",
                 "Google Street View":"https://www.google.com.br/maps/@-15.640351,-56.034736,3a,75y,175.74h,90t/data=!3m4!1e1!3m2!1sXxkgQEluDe9EL1g2Rg6gTg!2e0!6m1!1e1",
-                "Marker-symbol":"college",
-                "Marker-color":"#008000",
-                "Marker-size":"medium"
+                "marker-symbol":"college",
+                "marker-color":"#008000",
+                "marker-size":"medium"
             }
         },
         {
